@@ -1,4 +1,4 @@
-# rentals
+# Ren-tals
 
 Rentals fro both car and hotel
 
