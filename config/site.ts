@@ -232,7 +232,7 @@ export const carsData: Car[] = [
 export const hotelsData: Hotel[] = [
   {
     "id": "NY1001",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "New York",
     "location": {
       "streetAddress": "Broadway",
@@ -250,7 +250,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "NY1002",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "New York",
     "location": {
       "streetAddress": "5th Avenue",
@@ -268,7 +268,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "NY1003",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "New York",
     "location": {
       "streetAddress": "7th Avenue",
@@ -286,7 +286,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "NY1004",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "New York",
     "location": {
       "streetAddress": "6th Avenue",
@@ -304,7 +304,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "NY1005",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "New York",
     "location": {
       "streetAddress": "West Street",
@@ -322,7 +322,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1004",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "London",
     "location": {
       "streetAddress": "Baker Street",
@@ -340,7 +340,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1005",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "London",
     "location": {
       "streetAddress": "King's Cross",
@@ -358,7 +358,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1006",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "London",
     "location": {
       "streetAddress": "Camden Town",
@@ -376,7 +376,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1007",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "London",
     "location": {
       "streetAddress": "Covent Garden",
@@ -394,7 +394,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1008",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "London",
     "location": {
       "streetAddress": "Chelsea",
@@ -412,7 +412,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1009",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "London",
     "location": {
       "streetAddress": "Greenwich",
@@ -430,7 +430,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1010",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "London",
     "location": {
       "streetAddress": "Soho",
@@ -448,7 +448,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "NY1006",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "New York",
     "location": {
       "streetAddress": "Duffield Street",
@@ -466,7 +466,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "NY1007",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "New York",
     "location": {
       "streetAddress": "Grand Concourse",
@@ -484,7 +484,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1002",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Marine Drive",
@@ -502,7 +502,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1003",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Marine Drive",
@@ -520,7 +520,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1004",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Colaba Causeway",
@@ -538,7 +538,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1005",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Bandra West",
@@ -556,7 +556,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1006",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Juhu Tara Road",
@@ -574,7 +574,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1007",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Lokhandwala Complex",
@@ -592,7 +592,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1008",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Versova Beach",
@@ -610,7 +610,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1009",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Powai",
@@ -628,7 +628,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1003",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Paris",
     "location": {
       "streetAddress": "Champs-Élysées",
@@ -646,7 +646,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1004",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "London",
     "location": {
       "streetAddress": "Oxford Street",
@@ -664,7 +664,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1004",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Paris",
     "location": {
       "streetAddress": "Champs-Élysées",
@@ -682,7 +682,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1005",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Paris",
     "location": {
       "streetAddress": "Saint Germain",
@@ -700,7 +700,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1006",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "Paris",
     "location": {
       "streetAddress": "Montmartre",
@@ -718,7 +718,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1007",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "Paris",
     "location": {
       "streetAddress": "La Marais",
@@ -736,7 +736,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1008",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Paris",
     "location": {
       "streetAddress": "Belleville",
@@ -754,7 +754,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1009",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Paris",
     "location": {
       "streetAddress": "Bastille",
@@ -772,7 +772,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1010",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "Paris",
     "location": {
       "streetAddress": "Trocadéro",
@@ -790,7 +790,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "NY1008",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "New York",
     "location": {
       "streetAddress": "Fifth Avenue",
@@ -808,7 +808,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "MU1006",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "Mumbai",
     "location": {
       "streetAddress": "Linking Road",
@@ -826,7 +826,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "PR1007",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "Paris",
     "location": {
       "streetAddress": "Rue Cler",
@@ -844,7 +844,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "LD1008",
-    "listingType": "sale",
+    "listingType": "Sale",
     "city": "London",
     "location": {
       "streetAddress": "Baker Street",
@@ -862,7 +862,7 @@ export const hotelsData: Hotel[] = [
   },
   {
     "id": "NY1009",
-    "listingType": "rent",
+    "listingType": "Rent",
     "city": "New York",
     "location": {
       "streetAddress": "Wall Street",

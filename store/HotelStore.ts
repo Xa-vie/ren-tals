@@ -3,7 +3,7 @@ import { create } from 'zustand';
 
 export type Hotel = {
     id: string;
-    listingType: 'rent' | 'sale';
+    listingType: 'Rent' | 'Sale';
     city: 'New York' | 'Mumbai' | 'Paris' | 'London';
     location: {
         streetAddress: string;

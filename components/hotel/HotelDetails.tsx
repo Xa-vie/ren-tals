@@ -14,7 +14,7 @@ const HotelDetails: React.FC = () => {
 
     const filteredHotels = allHotels.filter(hotel => hotel.city === cityQuery);
 
-    const handleCityChange = (city) => {
+    const handleCityChange = (city: string) => {
         setCityQuery(city);
         setShowAll(false);
     };
